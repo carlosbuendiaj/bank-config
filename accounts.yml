@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to bank accounts related local APIs"
+  contactDetails:
+    name: "CarlosDEV"
+    email: "carlosDEV@buendia.com"
+  onCallSupport:
+    - 674571963
+    - 692245803

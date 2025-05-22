@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to bank accounts related PROD APIs"
   contactDetails:
     name: "CarlosPROD"
-    email: "carlosPROD@buendia.com"
+    email: "{cipher}ac13d2320493668814a820e90a3174955a8c856eea19dfc45f071ea6bb85ca8fbc04ee139dfe581ea865db0cea005edb"
   onCallSupport:
     - 674571961
     - 692245801
